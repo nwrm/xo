@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
     return  MaterialApp(
         title: 'XO',
         home: GameScreen(),
-        debugShowCheckedModeBanner: true,
+        debugShowCheckedModeBanner: false,
       );
   }
 }
