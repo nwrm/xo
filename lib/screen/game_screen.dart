@@ -1,4 +1,3 @@
-// GameScreen.dart
 import 'dart:async';
 import 'dart:math';
 import 'package:flutter/material.dart';
@@ -198,7 +197,7 @@ class _GameScreenState extends State<GameScreen> {
         child: Center(
           child: Text(
             board[y][x],
-            style: TextStyle(fontSize: 32.0, color: Colors.blueAccent),
+            style: TextStyle(fontSize: 120.0, color: Colors.blueAccent),
           ),
         ),
       ),
