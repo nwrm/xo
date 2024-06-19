@@ -1,6 +1,6 @@
 # XO Game
 
-เกม XO ข้ามแพลตฟอร์มที่พัฒนาด้วย Flutter โปรเจคนี้รองรับแพลตฟอร์ม Android, iOS, Web, macOS, Linux และ Windows
+เกม XO ที่พัฒนาด้วย Flutter
 
 ## การติดตั้ง
 
